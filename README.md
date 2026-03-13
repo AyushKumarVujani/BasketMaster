@@ -1,9 +1,6 @@
 # BasketMaster
 
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)  
-
 ## Overview
 
 BasketMaster is a powerful tool designed to analyze customer purchasing patterns and segment customers for enhanced marketing strategies. By utilizing market basket analysis and clustering techniques, this project provides insights that help businesses optimize their sales approaches.
